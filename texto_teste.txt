@@ -1,1 +1,3 @@
 Novo documento texto de teste
+
+Nova linha aqui no arquivo de teste
