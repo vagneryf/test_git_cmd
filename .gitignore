@@ -1,0 +1,13 @@
+$ cat .gitignore
+
+# ignorar arquivos terminados com .o .a
+*.[oa]
+
+# ignorar arquivos terminados com ~
+*~
+
+# ignorar arquivos terminados com .pyc
+*.pyc
+
+# ignorar pasta temp/
+temp/
