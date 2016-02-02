@@ -1,7 +1,11 @@
-texto 1 de teste
+texto 1 de teste, modificacao no ramo_teste de volta apos hotfix
 
 modificacao no master
 
+<<<<<<< HEAD
 
 
 fix para hotfix
+=======
+trabalhando no ramo_teste e commitando
+>>>>>>> ramo_teste
